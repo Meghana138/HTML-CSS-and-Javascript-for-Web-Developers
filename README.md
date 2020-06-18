@@ -8,3 +8,6 @@ https://meghana138.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module-3
 
 Week-4:Solution Link:
 https://meghana138.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module-4-solution
+
+Week-5:Solution Link:
+https://meghana138.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module-5-solution
